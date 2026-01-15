@@ -1,0 +1,8 @@
+openai>=1.0.0
+python-dotenv
+json-repair
+requests
+tqdm
+huggingface_hub
+Pillow
+python-dotenv
