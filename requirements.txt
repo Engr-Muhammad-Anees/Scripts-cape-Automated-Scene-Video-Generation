@@ -6,3 +6,5 @@ tqdm
 huggingface_hub
 Pillow
 python-dotenv
+moviepy 
+imageio-ffmpeg

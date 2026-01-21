@@ -1,0 +1,265 @@
+{
+  "Scenes": [
+    {
+      "scene_id": 1,
+      "description": "Dawn mist above quiet mud houses and empty dirt streets in a small rural village.",
+      "visual_focus": "Wide shot, village at sunrise, misty atmosphere, calm and still",
+      "narration": "Dawn mist above quiet mud houses and empty dirt streets in a small rural village, unfolding quietly.",
+      "audio_duration": 7.73,
+      "voice_style": {
+        "tone": "calm, contemplative",
+        "pace": "slow",
+        "emotion": "peaceful"
+      },
+      "background_audio": "ambient village sounds, light wind"
+    },
+    {
+      "scene_id": 2,
+      "description": "A barefoot boy in a faded beige shirt stands alone outside a cracked clay house, holding a small cloth bag.",
+      "visual_focus": "Close-up, boy\u2019s face and hands, soft morning light, rural setting",
+      "narration": "A barefoot boy in a faded beige shirt stands alone outside a cracked clay house, holding a small cloth bag, unfolding quietly.",
+      "audio_duration": 10.0,
+      "voice_style": {
+        "tone": "gentle, narrative",
+        "pace": "moderate",
+        "emotion": "empathetic"
+      },
+      "background_audio": "subtle room tone"
+    },
+    {
+      "scene_id": 3,
+      "description": "Boy walks slowly through dusty village paths as golden morning light falls across his face.",
+      "visual_focus": "Medium shot, boy in motion, sunlight on face, empty village behind",
+      "narration": "Boy walks slowly through dusty village paths as golden morning light falls across his face, unfolding quietly.",
+      "audio_duration": 7.73,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "ambient village sounds, light wind"
+    },
+    {
+      "scene_id": 4,
+      "description": "Old, dry field with cracked earth stretches endlessly under a pale, colorless sky.",
+      "visual_focus": "Wide shot, barren field, pale sky, sense of vastness and emptiness",
+      "narration": "Old, dry field with cracked earth stretches endlessly under a pale, colorless sky, unfolding quietly.",
+      "audio_duration": 6.82,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft wind, distant birds"
+    },
+    {
+      "scene_id": 5,
+      "description": "Boy kneels on hard ground, opens cloth bag, revealing a handful of simple seeds.",
+      "visual_focus": "Close-up, boy\u2019s hands and bag, seeds in focus, earthy background",
+      "narration": "Boy kneels on hard ground, opens cloth bag, revealing a handful of simple seeds, unfolding quietly.",
+      "audio_duration": 7.27,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 6,
+      "description": "Boy\u2019s eyes reflect rising sun, filled with quiet determination and belief.",
+      "visual_focus": "Close-up, boy\u2019s eyes, sunlight, hopeful expression",
+      "narration": "Boy\u2019s eyes reflect rising sun, filled with quiet determination and belief, unfolding quietly.",
+      "audio_duration": 5.91,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 7,
+      "description": "Boy digs into dry soil with bare hands, dust coating his skin as the earth resists.",
+      "visual_focus": "Medium shot, boy\u2019s hands in soil, dust, close-up on effort",
+      "narration": "Boy digs into dry soil with bare hands, dust coating his skin as the earth resists, unfolding quietly.",
+      "audio_duration": 8.18,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft wind, distant birds"
+    },
+    {
+      "scene_id": 8,
+      "description": "Boy carefully places a single seed into the ground, covering it with rough, dusty fingers.",
+      "visual_focus": "Close-up, hands planting seed, soil texture, focused action",
+      "narration": "Boy carefully places a single seed into the ground, covering it with rough, dusty fingers, unfolding quietly.",
+      "audio_duration": 7.73,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 9,
+      "description": "Boy lifts cracked metal pot and pours water onto the soil, earth absorbs every drop.",
+      "visual_focus": "Medium shot, boy pouring water, cracked pot, soil absorbing",
+      "narration": "Boy lifts cracked metal pot and pours water onto the soil, earth absorbs every drop, unfolding quietly.",
+      "audio_duration": 7.73,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft wind, distant birds"
+    },
+    {
+      "scene_id": 10,
+      "description": "Dark clouds gather above the field, wind bends dry grass, air grows heavy with anticipation.",
+      "visual_focus": "Wide shot, stormy sky, dry field, wind, tense atmosphere",
+      "narration": "Dark clouds gather above the field, wind bends dry grass, air grows heavy with anticipation, unfolding quietly.",
+      "audio_duration": 7.73,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft wind, distant birds"
+    },
+    {
+      "scene_id": 11,
+      "description": "Rain falls softly, then harder. Boy stands still in rain, eyes closed, face lifted.",
+      "visual_focus": "Medium shot, boy in rain, closed eyes, lifted face, falling rain",
+      "narration": "Rain falls softly, then harder. Boy stands still in rain, eyes closed, face lifted, unfolding quietly.",
+      "audio_duration": 7.27,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 12,
+      "description": "After rain, field looks transformed\u2014soft, dark, glistening soil under cloudy sky, alive.",
+      "visual_focus": "Wide shot, wet field, cloudy sky, glistening soil, sense of renewal",
+      "narration": "After rain, field looks transformed\u2014soft, dark, glistening soil under cloudy sky, alive, unfolding quietly.",
+      "audio_duration": 6.36,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft wind, distant birds"
+    },
+    {
+      "scene_id": 13,
+      "description": "Tiny green sprout breaks through wet soil, fragile and full of hope.",
+      "visual_focus": "Close-up, sprout emerging, wet soil, hopeful mood",
+      "narration": "Tiny green sprout breaks through wet soil, fragile and full of hope, unfolding quietly.",
+      "audio_duration": 6.36,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 14,
+      "description": "Boy sits quietly beside the small sprout at sunset, warm light surrounds them, gentle smile.",
+      "visual_focus": "Medium shot, boy and sprout, sunset, warm light, peaceful smile",
+      "narration": "Boy sits quietly beside the small sprout at sunset, warm light surrounds them, gentle smile, unfolding quietly.",
+      "audio_duration": 7.73,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 15,
+      "description": "Days pass, skies change, seasons shift as the sprout slowly grows into a small plant.",
+      "visual_focus": "Time-lapse, sprout growing, changing sky, seasons passing",
+      "narration": "Days pass, skies change, seasons shift as the sprout slowly grows into a small plant, unfolding quietly.",
+      "audio_duration": 7.73,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 16,
+      "description": "Plant becomes a young tree standing firm in the field, leaves move gently in the wind.",
+      "visual_focus": "Medium shot, young tree, wind, strong and growing",
+      "narration": "Plant becomes a young tree standing firm in the field, leaves move gently in the wind, unfolding quietly.",
+      "audio_duration": 8.18,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft wind, distant birds"
+    },
+    {
+      "scene_id": 17,
+      "description": "Villagers gather nearby, watch the growing tree with curiosity and amazement.",
+      "visual_focus": "Wide shot, villagers watching tree, rural setting, sense of wonder",
+      "narration": "Villagers gather nearby, watch the growing tree with curiosity and amazement, unfolding quietly.",
+      "audio_duration": 5.91,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "ambient village sounds, light wind"
+    },
+    {
+      "scene_id": 18,
+      "description": "Children play and rest in the shade of the tree, laughter fills the air.",
+      "visual_focus": "Medium shot, children under tree, laughter, joyful atmosphere",
+      "narration": "Children play and rest in the shade of the tree, laughter fills the air, unfolding quietly.",
+      "audio_duration": 7.27,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 19,
+      "description": "Years later, older boy stands beside tall tree at golden sunset, looks at it with pride.",
+      "visual_focus": "Medium shot, older boy and tree, sunset, proud expression",
+      "narration": "Years later, older boy stands beside tall tree at golden sunset, looks at it with pride, unfolding quietly.",
+      "audio_duration": 8.18,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "soft ambient atmosphere"
+    },
+    {
+      "scene_id": 20,
+      "description": "Village transformed, green fields stretch across land, life returns, tall tree at center under hopeful sky.",
+      "visual_focus": "Wide shot, transformed village, green fields, tall tree, hopeful sky",
+      "narration": "Village transformed, green fields stretch across land, life returns, tall tree at center under hopeful sky, unfolding quietly.",
+      "audio_duration": 8.18,
+      "voice_style": {
+        "tone": "calm, narrative",
+        "pace": "moderate",
+        "emotion": "neutral"
+      },
+      "background_audio": "ambient village sounds, light wind"
+    }
+
+  ]
+}
